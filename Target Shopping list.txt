@@ -1,17 +1,5 @@
 Shopping List:
 
-Spinach 
-Potatoes 
-Carrots
-Corn
-Bok Choy
-Broccoli 
-Sweet Potatoes 
-Yogurt
-Popcorn
-Dust pan
-Windex
-
-shampoo
-skirt
-water
+Pencils
+Notebooks
+Highlighters
