@@ -11,3 +11,7 @@ Yogurt
 Popcorn
 Dust pan
 Windex
+
+shampoo
+skirt
+water
